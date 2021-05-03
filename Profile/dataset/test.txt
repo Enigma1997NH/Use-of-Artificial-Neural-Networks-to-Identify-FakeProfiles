@@ -1,0 +1,2 @@
+Account_Age,Gender,User_Age,Link_Desc,Status_Count,Friend_Count,Location,Location_IP
+7, 0, 42, 1, 57, 631, 1, 1, 1
